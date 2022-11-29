@@ -1,0 +1,1957 @@
+{
+  "pokemon": [
+    {
+      "name": "Abra",
+      "img": "abra.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Absol",
+      "img": "absol.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Aggron",
+      "img": "aggron.gif",
+      "type": "steel",
+      "size": { "width": "100%", "height": "100%" }
+    },
+    {
+      "name": "Anorith",
+      "img": "anorith.gif",
+      "type": "rock",
+      "size": { "width": "80%", "height": "80%" },
+      "margin": { "top": "0", "left": "10%" }
+    },
+    {
+      "name": "Applin",
+      "img": "applin.gif",
+      "type": "grass",
+      "size": { "width": "50%", "height": "50%" }
+    },
+    {
+      "name": "Archen",
+      "img": "archen_s.gif",
+      "type": "rock",
+      "size": { "width": "110%", "height": "110%" },
+      "margin": { "top": "15%", "left": "15%" }
+    },
+    {
+      "name": "Arceus",
+      "img": "arceus.gif",
+      "type": "normal",
+      "size": { "width": "75%", "height": "75%" }
+    },
+    {
+      "name": "Ariados",
+      "img": "ariados.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Armaldo",
+      "img": "armaldo.gif",
+      "type": "rock",
+      "size": { "width": "80%", "height": "80%" }
+    },
+    {
+      "name": "Aron",
+      "img": "aron.gif",
+      "type": "steel",
+      "size": { "width": "60%", "height": "60%" }
+    },
+    {
+      "name": "Articuno",
+      "img": "articuno.gif",
+      "type": "ice",
+      "size": { "width": "140%", "height": "100%" }
+    },
+    {
+      "name": "Articuno Galar",
+      "img": "articuno_galar.gif",
+      "type": "psychic",
+      "size": { "width": "100%", "height": "100%" },
+      "margin": { "top": "20%", "left": "7%" }
+    },
+    {
+      "name": "Axew",
+      "img": "axew.gif",
+      "type": "dragon",
+      "margin": { "left": "-10%", "top": "-5%" }
+    },
+    {
+      "name": "Axew",
+      "img": "axew_s.gif",
+      "type": "dragon",
+      "margin": { "left": "-5%" }
+    },
+    {
+      "name": "Azelf",
+      "img": "azelf.gif",
+      "type": "psychic",
+      "size": { "width": "80%", "height": "100%" },
+      "margin": { "left": "20%" }
+    },
+    {
+      "name": "Azurill",
+      "img": "azurill.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Bagon",
+      "img": "bagon.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Bagon",
+      "img": "bagon_s.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Barraskewda",
+      "img": "barraskewda.gif",
+      "type": "water"
+    },
+    {
+      "name": "Bayleef",
+      "img": "bayleef.gif",
+      "type": "grass",
+      "size": { "width": "80%", "height": "90%" },
+      "margin": { "top": "-15%" }
+    },
+    {
+      "name": "Beautifly",
+      "img": "beautifly.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Beartic",
+      "img": "beartic_s.gif",
+      "type": "ice",
+      "size": { "width": "100%", "height": "90%" }
+    },
+    {
+      "name": "Beedrll",
+      "img": "Beedrill.gif",
+      "type": "bug",
+      "size": { "width": "80%" },
+      "margin": { "top": "-10%" }
+    },
+    {
+      "name": "Bellossom",
+      "img": "bellossom.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Bewear",
+      "img": "bewear_s.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Blastoise",
+      "img": "blastoise.gif",
+      "type": "water",
+      "size": { "width": "75%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Bulbasour",
+      "img": "bulbasour.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Butterfree",
+      "img": "butterfree.gif",
+      "type": "bug",
+      "size": { "width": "80%" }
+    },
+    {
+      "name": "Cacnea",
+      "img": "cacnea.gif",
+      "type": "grass",
+      "size": { "width": "100%" }
+    },
+    {
+      "name": "Cacnea",
+      "img": "cacnea_s.gif",
+      "type": "grass",
+      "size": { "width": "100%" }
+    },
+    {
+      "name": "Camerupt",
+      "img": "camerupt.gif",
+      "type": "fire",
+      "size": { "width": "65%", "height": "100%" }
+    },
+    {
+      "name": "Camerupt",
+      "img": "camerupt_s.gif",
+      "type": "fire",
+      "size": { "width": "65%", "height": "100%" }
+    },
+    {
+      "name": "Carvanha",
+      "img": "carvanha.gif",
+      "type": "water",
+      "margin": { "left": "10%" },
+      "size": { "width": "80%", "height": "80%" }
+    },
+    {
+      "name": "Carvanha",
+      "img": "carvanha_s.gif",
+      "type": "water",
+      "margin": { "left": "10%" },
+      "size": { "width": "80%", "height": "80%" }
+    },
+    {
+      "name": "Caterpie",
+      "img": "caterpie.gif",
+      "type": "bug",
+      "size": { "width": "60%", "height": "60%" }
+    },
+    {
+      "name": "Celebi",
+      "img": "celebi.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Celebi",
+      "img": "celebi_s.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Charmander",
+      "img": "charmander.gif",
+      "type": "fire",
+      "size": { "width": "60%", "height": "60%" }
+    },
+    {
+      "name": "Charmeleon",
+      "img": "charmeleon.gif",
+      "type": "fire"
+    },
+
+    {
+      "name": "Charizard",
+      "img": "charizard.gif",
+      "type": "fire",
+      "size": { "width": "105%", "height": "105%" },
+      "margin": { "top": "-30%", "left": "15%" }
+    },
+    {
+      "name": "Chikorita",
+      "img": "chikorita.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Chingling",
+      "img": "chingling.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Clefable",
+      "img": "clefable.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "Clefairy",
+      "img": "clefairy.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "Cleffa",
+      "img": "cleffa.gif",
+      "type": "fairy",
+      "size": { "width": "60%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Cloyster",
+      "img": "cloyster.gif",
+      "type": "water"
+    },
+    {
+      "name": "Cloyster",
+      "img": "cloyster_s.gif",
+      "type": "water"
+    },
+    {
+      "name": "Cobalion",
+      "img": "cobalion.gif",
+      "type": "steel"
+    },
+    {
+      "name": "Combee",
+      "img": "combee.gif",
+      "type": "bug",
+      "size": { "width": "90%" }
+    },
+    {
+      "name": "Corsola Galar",
+      "img": "corsola_galar.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Corsola Galar",
+      "img": "corsola_galar_s.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Corviknight",
+      "img": "corviknight.gif",
+      "type": "flying",
+      "size": { "width": "120%", "height": "120%" }
+    },
+    {
+      "name": "Corvisquire",
+      "img": "corvisquire.gif",
+      "type": "flying",
+      "size": { "width": "100%", "height": "100%" }
+    },
+    {
+      "name": "Cosmog",
+      "img": "cosmog.gif",
+      "type": "psychic",
+      "size": { "width": "90%", "height": "80%" },
+      "margin": { "top": "-20%" }
+    },
+    {
+      "name": "Cradily",
+      "img": "cradily.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Cramorant",
+      "img": "cramorant_2.gif",
+      "type": "flying",
+      "size": { "width": "80%", "height": "80%" },
+      "margin": { "left": "-10%", "top": "-10%" }
+    },
+    {
+      "name": "Cramorant",
+      "img": "cramorant_s.gif",
+      "type": "flying"
+    },
+    {
+      "name": "Cranidos",
+      "img": "cranidos.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Croagunk",
+      "img": "croagunk.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Crobat",
+      "img": "crobat.gif",
+      "type": "poison",
+      "size": { "width": "120%", "height": "120%" },
+      "margin": { "left": "5%" }
+    },
+    {
+      "name": "Croconaw",
+      "img": "croconaw.gif",
+      "type": "water",
+      "size": { "height": "80%" },
+      "margin": { "top": "-10%" }
+    },
+    {
+      "name": "Cubchoo",
+      "img": "cubchoo.gif",
+      "type": "ice",
+      "size": { "height": "60%" }
+    },
+    {
+      "name": "Cubone",
+      "img": "cubone.gif",
+      "type": "fighting",
+      "size": { "height": "60%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Cufant",
+      "img": "cufant.gif",
+      "type": "steel"
+    },
+    {
+      "name": "Cyndaquil",
+      "img": "cyndaquil.gif",
+      "type": "fire",
+      "size": { "height": "50%" },
+      "margin": { "top": "15%" }
+    },
+    {
+      "name": "Darkrai",
+      "img": "darkrai.gif",
+      "type": "dark",
+      "size": { "height": "100%", "width": "100%" },
+      "margin": { "left": "15%", "top": "-10%" }
+    },
+    {
+      "name": "Darumaka",
+      "img": "darumaka.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Darumaka Galar",
+      "img": "darumaka_galar.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Delibird",
+      "img": "delibird.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Delibird",
+      "img": "delibird_s.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Denio",
+      "img": "denio_s.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Deoxys Normal Form",
+      "img": "deoxys_normal.gif",
+      "type": "psychic",
+      "size": { "width": "120%" }
+    },
+    {
+      "name": "Ditto",
+      "img": "ditto.gif",
+      "type": "normal",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Donphan",
+      "img": "donphan.gif",
+      "type": "ground",
+      "size": { "width": "100%" }
+    },
+    {
+      "name": "Dottler",
+      "img": "dottler.gif",
+      "type": "bug",
+      "size": { "width": "65%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Dracozolt",
+      "img": "dracozolt.gif",
+      "type": "electric",
+      "size": { "width": "75%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Dragonair",
+      "img": "dragonair.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Dragonite",
+      "img": "dragonite.gif",
+      "type": "dragon",
+      "size": { "height": "80%", "width": "80%" }
+    },
+    {
+      "name": "Drakloak",
+      "img": "drakloak.gif",
+      "type": "dragon",
+      "size": { "height": "75%", "width": "75%" }
+    },
+    {
+      "name": "Drapion",
+      "img": "drapion.gif",
+      "type": "poison",
+      "margin": { "left": "-10%" }
+    },
+    {
+      "name": "Dratini",
+      "img": "dratini.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Drednaw",
+      "img": "Drednaw.gif",
+      "type": "water",
+      "size": { "width": "85%" }
+    },
+    {
+      "name": "Drilbur",
+      "img": "drilbur.gif",
+      "type": "ground",
+      "size": { "width": "90%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Drowzee",
+      "img": "drowzee.gif",
+      "type": "psychic",
+      "size": { "width": "90%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Dubwool",
+      "img": "dubwool.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Dugtrio",
+      "img": "dugtrio.gif",
+      "type": "ground",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Duskull",
+      "img": "duskull.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Duskull",
+      "img": "duskull_s.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Dusnoir",
+      "img": "dusknoir.gif",
+      "type": "ghost",
+      "size": { "width": "110%" },
+      "margin": { "left": "-10%" }
+    },
+    {
+      "name": "Dustox",
+      "img": "dustox.gif",
+      "type": "bug",
+      "size": { "width": "100%" },
+      "margin": { "top": "-20%" }
+    },
+    {
+      "name": "Dwebble",
+      "img": "dwebble.gif",
+      "type": "bug",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Eevee",
+      "img": "eevee.gif",
+      "type": "normal",
+      "size": { "width": "80%" }
+    },
+    {
+      "name": "Electrivire",
+      "img": "electivire.gif",
+      "type": "electric",
+      "size": { "width": "90%" }
+    },
+    {
+      "name": "Electrode",
+      "img": "electrode.gif",
+      "type": "electric",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Elekid",
+      "img": "elekid.gif",
+      "type": "electric",
+      "size": { "width": "85%" },
+      "margin": { "left": "-5%" }
+    },
+    {
+      "name": "Emolga",
+      "img": "emolga.gif",
+      "type": "electric",
+      "margin": { "left": "5%", "top": "-10%" }
+    },
+    {
+      "name": "Entei",
+      "img": "entei.gif",
+      "type": "fire",
+      "size": { "width": "80%", "height": "75%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Espeon",
+      "img": "espeon.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Farfetch'd",
+      "img": "farfetchd.gif",
+      "type": "fighting",
+      "margin": { "left": "20%" }
+    },
+    {
+      "name": "Farfetch'd",
+      "img": "farfetchd_s.gif",
+      "type": "fighting",
+      "margin": { "left": "20%" }
+    },
+    {
+      "name": "Flaaffy",
+      "img": "flaaffy.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Flareon",
+      "img": "flareon.gif",
+      "type": "fire",
+      "size": { "height": "75%" }
+    },
+    {
+      "name": "Flygon",
+      "img": "flygon.gif",
+      "type": "ground",
+      "size": { "width": "100%", "height": "100%" },
+      "margin": { "top": "-15%" }
+    },
+    {
+      "name": "Fraxure",
+      "img": "fraxure.gif",
+      "type": "dragon",
+      "size": { "width": "90%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Furret",
+      "img": "furret.gif",
+      "type": "normal",
+      "margin": { "left": "20%", "top": "10%" }
+    },
+    {
+      "name": "Gabite",
+      "img": "gabite.gif",
+      "type": "dragon",
+      "size": { "height": "75%", "width": "75%" }
+    },
+    {
+      "name": "Gallade",
+      "img": "gallade.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Gastly",
+      "img": "gastly.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Genesect",
+      "img": "genesect_s.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Gengar",
+      "img": "gengar.gif",
+      "type": "ghost",
+      "size": { "width": "90%" }
+    },
+    {
+      "name": "Geodude",
+      "img": "geodude.gif",
+      "type": "rock",
+      "size": { "width": "90%" },
+      "margin": { "top": "-10%" }
+    },
+    {
+      "name": "Gible",
+      "img": "gible.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Giratina",
+      "img": "giratina.gif",
+      "type": "ghost",
+      "size": { "width": "100%", "height": "100%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Giratina",
+      "img": "giratina_s.gif",
+      "type": "ghost",
+      "size": { "width": "100%", "height": "100%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Glaceon",
+      "img": "glaceon.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Gligar",
+      "img": "gligar.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Gliscor",
+      "img": "gliscor.gif",
+      "type": "ground",
+      "size": { "width": "80%", "height": "80%" }
+    },
+    {
+      "name": "Gogoat",
+      "img": "gogoat_s.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Golett",
+      "img": "golett.gif",
+      "type": "ground",
+      "size": { "width": "60%" }
+    },
+    {
+      "name": "Golisopod",
+      "img": "golisopod.gif",
+      "type": "bug",
+      "size": { "width": "75%" }
+    },
+    {
+      "name": "Goomy",
+      "img": "goomy.gif",
+      "type": "dragon",
+      "size": { "width": "50%" }
+    },
+
+    {
+      "name": "Grapploct",
+      "img": "grapploct.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Grookey",
+      "img": "grookey.gif",
+      "type": "grass",
+      "size": { "width": "50%" }
+    },
+    {
+      "name": "Groudon",
+      "img": "groudon.gif",
+      "type": "ground",
+      "size": { "width": "85%", "height": "75%" }
+    },
+    {
+      "name": "Growlithe",
+      "img": "growlithe.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Haunter",
+      "img": "haunter.gif",
+      "type": "ghost",
+      "margin": { "left": "-10%" }
+    },
+    {
+      "name": "Hawlucha",
+      "img": "hawlucha.gif",
+      "type": "fighting",
+      "size": { "width": "90%" }
+    },
+    {
+      "name": "Heracross",
+      "img": "heracross.gif",
+      "type": "bug",
+      "size": { "width": "80%", "height": "80%" }
+    },
+    {
+      "name": "Hippopotas",
+      "img": "hippopotas.gif",
+      "type": "ground",
+      "size": { "width": "65%" },
+      "margin": { "top": "15%" }
+    },
+
+    {
+      "name": "Ho-oh",
+      "img": "ho_oh.gif",
+      "type": "fire",
+      "margin": { "left": "-15%", "top": "-40%" },
+      "size": { "width": "150%", "height": "120%" }
+    },
+
+    {
+      "name": "Houndoom",
+      "img": "houndoom.gif",
+      "type": "dark",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Hydreigon",
+      "img": "hydreigon.gif",
+      "type": "dragon",
+      "size": { "width": "110%", "height": "110%" },
+      "margin": { "left": "20%", "top": "-25%" }
+    },
+    {
+      "name": "Hydreigon",
+      "img": "hydreigon_s.gif",
+      "type": "dragon",
+      "size": { "width": "110%", "height": "110%" },
+      "margin": { "left": "20%", "top": "-25%" }
+    },
+    {
+      "name": "Incineroar",
+      "img": "incineroar.gif",
+      "type": "fire",
+      "size": { "width": "110%", "height": "110%" },
+      "margin": { "left": "-5%", "top": "-5%" }
+    },
+    {
+      "name": "Incineroar",
+      "img": "incineroar_s.gif",
+      "type": "fire",
+      "size": { "width": "110%", "height": "110%" },
+      "margin": { "left": "-5%", "top": "-5%" }
+    },
+    {
+      "name": "inkay",
+      "img": "inkay.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Ivysaur",
+      "img": "ivysaur.gif",
+      "type": "grass",
+      "size": { "height": "90%", "width": "90%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Ivysaur",
+      "img": "ivysaur_s.gif",
+      "type": "grass",
+      "size": { "height": "90%", "width": "90%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Jangmo-o",
+      "img": "jangmo_o.gif",
+      "type": "dragon",
+      "size": { "width": "50%" },
+      "margin": { "top": "5%", "left": "5%" }
+    },
+    {
+      "name": "Jolteon",
+      "img": "jolteon.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Joltik",
+      "img": "joltik.gif",
+      "type": "electric",
+      "size": { "width": "50%" },
+      "margin": { "top": "30%", "left": "5%" }
+    },
+    {
+      "name": "Kabutops",
+      "img": "kabutops.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Keldeo",
+      "img": "keldeo.gif",
+      "type": "water",
+      "margin": { "left": "5%" }
+    },
+    {
+      "name": "Kingler",
+      "img": "kingler.gif",
+      "type": "steel"
+    },
+    {
+      "name": "Klink",
+      "img": "klink.gif",
+      "type": "steel",
+      "size": { "width": "65%" }
+    },
+    {
+      "name": "Klink",
+      "img": "klink_s.gif",
+      "type": "steel",
+      "size": { "width": "65%" }
+    },
+    {
+      "name": "Koffing",
+      "img": "koffing.gif",
+      "type": "poison",
+      "size": { "width": "85%", "height": "85%" }
+    },
+    {
+      "name": "Kommo-o",
+      "img": "kommo_o.gif",
+      "type": "dragon",
+      "size": { "width": "75%", "height": "75%" }
+    },
+    {
+      "name": "Krookodile",
+      "img": "krookodile.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Kubfu",
+      "img": "kubfu.gif",
+      "type": "water"
+    },
+    {
+      "name": "Lapras",
+      "img": "lapras.gif",
+      "type": "water",
+      "size": { "width": "75%", "height": "75%" },
+      "margin": { "left": "5%" }
+    },
+    {
+      "name": "Lapras",
+      "img": "lapras_s.gif",
+      "type": "water",
+      "size": { "width": "75%", "height": "75%" },
+      "margin": { "left": "5%" }
+    },
+    {
+      "name": "Larvesta",
+      "img": "larvesta.gif",
+      "type": "bug",
+      "size": { "width": "60%", "height": "60%" }
+    },
+    {
+      "name": "Larvitar",
+      "img": "larvitar.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Latias",
+      "img": "latias.gif",
+      "type": "dragon",
+      "size": { "width": "90%", "height": "90%" },
+      "margin": { "left": "10%", "top": "-20%" }
+    },
+    {
+      "name": "Latios",
+      "img": "latios.gif",
+      "type": "dragon",
+      "size": { "width": "90%", "height": "90%" },
+      "margin": { "left": "10%", "top": "-20%" }
+    },
+    {
+      "name": "Latias",
+      "img": "latias_s.gif",
+      "type": "dragon",
+      "size": { "width": "90%", "height": "90%" },
+      "margin": { "left": "10%", "top": "-20%" }
+    },
+    {
+      "name": "Latios",
+      "img": "latios_s.gif",
+      "type": "dragon",
+      "size": { "width": "90%", "height": "90%" },
+      "margin": { "left": "10%", "top": "-20%" }
+    },
+    {
+      "name": "Leafeon",
+      "img": "leafeon.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Ledyba",
+      "img": "Ledyba.gif",
+      "type": "bug",
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Lileep",
+      "img": "lileep.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Linoone Galar",
+      "img": "linoone_galar.gif",
+      "type": "dark",
+      "margin": { "top": "20%" },
+      "size": { "width": "90%" }
+    },
+    {
+      "name": "Litten",
+      "img": "litten.gif",
+      "type": "fire",
+      "size": { "width": "60%" }
+    },
+    {
+      "name": "Litten",
+      "img": "litten_s.gif",
+      "type": "fire",
+      "size": { "width": "60%" }
+    },
+    {
+      "name": "Lugia",
+      "img": "lugia.gif",
+      "type": "psychic",
+      "size": { "width": "110%", "height": "100%" },
+      "margin": { "top": "-20%", "left": "10%" }
+    },
+    {
+      "name": "Lunala",
+      "img": "lunala.gif",
+      "type": "psychic",
+      "size": { "width": "100%", "height": "100%" },
+      "margin": { "top": "-20%" }
+    },
+    {
+      "name": "Luxray",
+      "img": "luxray.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Luxray",
+      "img": "luxray_s.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Lycanroc",
+      "img": "lycanroc.gif",
+      "type": "rock",
+      "size": { "width": "60%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Lycanroc Midnight",
+      "img": "lycanroc_midnight.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Machamp",
+      "img": "machamp.gif",
+      "type": "fighting",
+      "size": { "width": "80%", "height": "85%" }
+    },
+    {
+      "name": "Magcargo",
+      "img": "magcargo.gif",
+      "type": "fire",
+      "size": { "width": "50%" },
+      "margin": { "top": "15%" }
+    },
+    {
+      "name": "Magikarp",
+      "img": "magikarp.gif",
+      "type": "water",
+      "margin": { "left": "15%" }
+    },
+    {
+      "name": "Magnezone",
+      "img": "magnezone.gif",
+      "type": "electric",
+      "size": { "width": "100%" },
+      "margin": { "left": "-5%", "top": "-10%" }
+    },
+    {
+      "name": "Mamoswine",
+      "img": "mamoswine.gif",
+      "type": "ice",
+      "margin": { "left": "-10%" },
+      "size": { "width": "110%" }
+    },
+    {
+      "name": "Mandibuzz",
+      "img": "mandibuzz.gif",
+      "type": "dark",
+      "size": { "width": "110%", "height": "110%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Mankey",
+      "img": "mankey.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Mantyke",
+      "img": "mantyke.gif",
+      "type": "water"
+    },
+    {
+      "name": "Mareep",
+      "img": "mareep.gif",
+      "type": "electric",
+      "size": { "width": "60%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Mareep",
+      "img": "mareep_s.gif",
+      "type": "electric",
+      "size": { "width": "60%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Marill",
+      "img": "marill.gif",
+      "type": "water",
+      "size": { "width": "60%" },
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Marshadow",
+      "img": "marshadow.gif",
+      "type": "fighting",
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Metagross",
+      "img": "metagross.gif",
+      "type": "steel",
+      "size": { "width": "110%" },
+      "margin": { "top": "10%" }
+    },
+
+    {
+      "name": "Metapod",
+      "img": "metapod.gif",
+      "type": "bug",
+      "size": { "width": "50%" }
+    },
+    {
+      "name": "Mew",
+      "img": "mew.gif",
+      "type": "psychic",
+      "margin": { "left": "-10%" }
+    },
+    {
+      "name": "Milotic",
+      "img": "milotic.gif",
+      "type": "water",
+      "size": { "width": "100%", "height": "80%" },
+      "margin": { "left": "15%" }
+    },
+    {
+      "name": "Miltank",
+      "img": "miltank.gif",
+      "type": "normal",
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Mimikyu",
+      "img": "mimikyu.gif",
+      "type": "ghost",
+      "margin": { "left": "20%" }
+    },
+    {
+      "name": "Minun",
+      "img": "minun.gif",
+      "type": "electric",
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Mismagius",
+      "img": "mismagius.gif",
+      "type": "ghost",
+      "size": { "width": "90%", "height": "90%" }
+    },
+    {
+      "name": "Moltres",
+      "img": "moltres.gif",
+      "type": "fire",
+      "size": { "width": "130%", "height": "130%" }
+    },
+    {
+      "name": "Monferno",
+      "img": "monferno.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Morpeko",
+      "img": "morpeko.gif",
+      "type": "electric",
+      "size": { "height": "60%" }
+    },
+    {
+      "name": "Morpeko Hangry",
+      "img": "morpeko_hangry.gif",
+      "type": "electric",
+      "size": { "height": "60%" }
+    },
+    {
+      "name": "Mr. Rime",
+      "img": "mr._rime.gif",
+      "type": "ice",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Mr. Mime",
+      "img": "mr_mime.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Mudbray",
+      "img": "mudbray.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Mudbray",
+      "img": "mudbray_s.gif",
+      "type": "ground",
+      "size": { "height": "80%" }
+    },
+    {
+      "name": "Mudkip",
+      "img": "mudkip.gif",
+      "type": "water"
+    },
+    {
+      "name": "Munchlax",
+      "img": "munchlax.gif",
+      "type": "normal",
+      "size": { "height": "65%" },
+      "margin": { "top": "5%" }
+    },
+    {
+      "name": "Murkrow",
+      "img": "murkrow.gif",
+      "type": "dark",
+      "margin": { "left": "5%" }
+    },
+    {
+      "name": "Necrozma",
+      "img": "necrozma.gif",
+      "type": "psychic",
+      "size": { "width": "100%", "height": "100%" }
+    },
+    {
+      "name": "Nickit",
+      "img": "nickit.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Nihilego",
+      "img": "nihilego.gif",
+      "type": "rock",
+      "size": { "height": "80%" }
+    },
+    {
+      "name": "Nidoran F",
+      "img": "nidoran_f.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Nidoran M",
+      "img": "nidoran_m.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Nidoking",
+      "img": "nidoking.gif",
+      "type": "poison",
+      "size": { "width": "100%", "height": "100%" }
+    },
+    {
+      "name": "Nidoking",
+      "img": "nidoking_s.gif",
+      "type": "poison",
+      "size": { "width": "100%", "height": "100%" }
+    },
+    {
+      "name": "Ninetales",
+      "img": "ninetales.gif",
+      "type": "fire",
+      "margin": { "left": "5%", "top": "5%" }
+    },
+    {
+      "name": "Ninetales Alola",
+      "img": "ninetales_alola.gif",
+      "type": "ice",
+      "margin": { "top": "5%" }
+    },
+    {
+      "name": "Ninjask",
+      "img": "ninjask.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Noibat",
+      "img": "noibat.gif",
+      "type": "flying"
+    },
+    {
+      "name": "Noivern",
+      "img": "noivern.gif",
+      "type": "flying"
+    },
+    {
+      "name": "Numel",
+      "img": "numel.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Obstagoon",
+      "img": "obstagoon.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Octillery",
+      "img": "octillery.gif",
+      "type": "water"
+    },
+    {
+      "name": "Omanyte",
+      "img": "omanyte.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Pachrisu",
+      "img": "pachirisu.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Palkia",
+      "img": "palkia.gif",
+      "type": "water"
+    },
+    {
+      "name": "Pancham",
+      "img": "pancham.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Paraasect",
+      "img": "parasect.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Passimian",
+      "img": "passimian.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Perrserker",
+      "img": "perrserker.gif",
+      "type": "steel"
+    },
+    {
+      "name": "Phanpy",
+      "img": "Phanpy.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Phantump",
+      "img": "phantump.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Pichu",
+      "img": "pichu.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Pichu",
+      "img": "pichu_s.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Pidgey",
+      "img": "pidgey.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Pikachu",
+      "img": "pikachu.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Pikachu Cap",
+      "img": "pikachu_cap.gif",
+      "type": "electric"
+    },
+
+    {
+      "name": "Piloswine",
+      "img": "piloswine.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Pinsir",
+      "img": "pinsir.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Piplup",
+      "img": "piplup.gif",
+      "type": "water"
+    },
+    {
+      "name": "Plusle",
+      "img": "plusle.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Poliwag",
+      "img": "Poliwag.gif",
+      "type": "water"
+    },
+    {
+      "name": "Ponyta Galar",
+      "img": "ponyta_galar.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "Poochyena",
+      "img": "poochyena.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Popplio",
+      "img": "popplio.gif",
+      "type": "water"
+    },
+    {
+      "name": "Porygon Z",
+      "img": "porygon_z.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Primarina",
+      "img": "primarina.gif",
+      "type": "water"
+    },
+    {
+      "name": "Primeape",
+      "img": "primeape.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Raikou",
+      "img": "raikou.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Ralts",
+      "img": "ralts.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Rattata",
+      "img": "rattata.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Rayquaza",
+      "img": "rayquaza.gif",
+      "type": "dragon",
+      "size": { "width": "120%" }
+    },
+
+    {
+      "name": "Relicanth",
+      "img": "relicanth.gif",
+      "type": "water"
+    },
+    {
+      "name": "Riolu",
+      "img": "riolu.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Rhydon",
+      "img": "rhydon.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Rhyhorn",
+      "img": "rhyhorn.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Rhyperior",
+      "img": "rhyperior.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Rockruff",
+      "img": "rockruff.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Rookidee",
+      "img": "rookidee.gif",
+      "type": "flying"
+    },
+    {
+      "name": "Roselia",
+      "img": "roselia.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Salandit",
+      "img": "salandit.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Salandit",
+      "img": "salandit_s.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Sandaconda",
+      "img": "sandaconda.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Sandile",
+      "img": "sandile.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Sandshrew",
+      "img": "sandshrew.gif",
+      "type": "ground"
+    },
+    {
+      "name": "Scizor",
+      "img": "Scizor.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Scizor",
+      "img": "Scizor_s.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Scorbunny",
+      "img": "scorbunny.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Scraggy",
+      "img": "scraggy.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Sentret",
+      "img": "sentret.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Seviper",
+      "img": "seviper.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Sharpedo",
+      "img": "sharpedo.gif",
+      "type": "water"
+    },
+    {
+      "name": "Sharpedo",
+      "img": "sharpedo_s.gif",
+      "type": "water"
+    },
+    {
+      "name": "Shedinja",
+      "img": "shedinja.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Shieldon",
+      "img": "shieldon.gif",
+      "type": "rock"
+    },
+    {
+      "name": "Shuppet",
+      "img": "shuppet.gif",
+      "type": "ghost"
+    },
+    {
+      "name": "Shaymin",
+      "img": "shaymin.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Shelgon",
+      "img": "shelgon.gif",
+      "type": "dragon"
+    },
+    {
+      "name": "Shellder",
+      "img": "shellder.gif",
+      "type": "water"
+    },
+    {
+      "name": "Shellos",
+      "img": "shellos.gif",
+      "type": "water"
+    },
+    {
+      "name": "Skiddo",
+      "img": "skiddo_s.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Skorupi",
+      "img": "skorupi.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Sliggoo",
+      "img": "Sliggoo.gif",
+      "type": "steel"
+    },
+    {
+      "name": "Slugma",
+      "img": "slugma.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Smoochum",
+      "img": "smoochum.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Snivy",
+      "img": "snivy_s.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Snorlax",
+      "img": "snorlax.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Sobble",
+      "img": "sobble.gif",
+      "type": "water"
+    },
+    {
+      "name": "Solgaleo",
+      "img": "solgaleo.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Solgaleo",
+      "img": "solgaleo_s.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Spheal",
+      "img": "spheal.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Spheal",
+      "img": "spheal_s.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Spinda",
+      "img": "spinda.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Spoink",
+      "img": "spoink.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Squirtle",
+      "img": "squirtle.gif",
+      "type": "water"
+    },
+    {
+      "name": "Steelix",
+      "img": "steelix.gif",
+      "type": "steel"
+    },
+    {
+      "name": "Stufful",
+      "img": "stufful.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Stufful",
+      "img": "stufful_s.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Stunky",
+      "img": "stunky.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Suicune",
+      "img": "suicune.gif",
+      "type": "water"
+    },
+    {
+      "name": "Sunflora",
+      "img": "sunflora.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Swampert",
+      "img": "swampert.gif",
+      "type": "water"
+    },
+    {
+      "name": "Swinub",
+      "img": "swinub.gif",
+      "type": "ice"
+    },
+    {
+      "name": "Swirlix",
+      "img": "swirlix.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "sylveon",
+      "img": "sylveon.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "sylveon",
+      "img": "sylveon_s.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "Tapu Koko",
+      "img": "tapu_koko_s.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Tauros",
+      "img": "tauros.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Teddiursa",
+      "img": "teddiursa.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Tentacruel",
+      "img": "tentacruel.gif",
+      "type": "water"
+    },
+    {
+      "name": "Tepig",
+      "img": "tepig_s.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Togepi",
+      "img": "togepi.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "Torchic",
+      "img": "torchic.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Torchic",
+      "img": "torchic_s.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Torterra",
+      "img": "torterra.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Totodile",
+      "img": "totodile.gif",
+      "type": "water"
+    },
+    {
+      "name": "Toxel",
+      "img": "toxel.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Treecko",
+      "img": "treecko.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Treecko",
+      "img": "treecko_s.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Trubbish",
+      "img": "trubbish.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Turtwig",
+      "img": "Turtwig.gif",
+      "type": "grass"
+    },
+    {
+      "name": "Turtwig",
+      "img": "Turtwig_s.gif",
+      "type": "grass"
+    },
+    {
+      "name": "tyranitar",
+      "img": "tyranitar.gif",
+      "type": "rock",
+      "size": { "width": "100%", "height": "100%" }
+    },
+    {
+      "name": "Umbreon",
+      "img": "umbreon.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Uxie",
+      "img": "uxie.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Vaporeon",
+      "img": "vaporeon.gif",
+      "type": "water"
+    },
+    {
+      "name": "Venonat",
+      "img": "venonat.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Vespiquen",
+      "img": "vespiquen.gif",
+      "type": "bug"
+    },
+    {
+      "name": "Vigoroth",
+      "img": "vigoroth.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Vulpix",
+      "img": "vulpix.gif",
+      "type": "fire"
+    },
+    {
+      "name": "Wailmer",
+      "img": "wailmer.gif",
+      "type": "water"
+    },
+    {
+      "name": "Wailmer",
+      "img": "wailmer_s.gif",
+      "type": "water"
+    },
+    {
+      "name": "Walrein",
+      "img": "walrein.gif",
+      "type": "water"
+    },
+    {
+      "name": "Walrein",
+      "img": "walrein_s.gif",
+      "type": "water"
+    },
+    {
+      "name": "Weezing Galar",
+      "img": "weezing_galar.gif",
+      "type": "poison"
+    },
+    {
+      "name": "Woobat",
+      "img": "woobat.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Woobat",
+      "img": "woobat_s.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Wooloo",
+      "img": "wooloo.gif",
+      "type": "normal"
+    },
+
+    {
+      "name": "Wooper",
+      "img": "wooper.gif",
+      "type": "water"
+    },
+    {
+      "name": "Yveltal",
+      "img": "yveltal_s.gif",
+      "type": "dark",
+      "size": { "width": "130%", "height": "130%" }
+    },
+    {
+      "name": "Zacian",
+      "img": "zacian.gif",
+      "type": "fairy"
+    },
+    {
+      "name": "Zamazenta",
+      "img": "zamazenta.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Zangoose",
+      "img": "zangoose.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Zapdos",
+      "img": "zapdos.gif",
+      "type": "electric",
+      "size": { "width": "130%", "height": "100%" }
+    },
+    {
+      "name": "Zapdos Galar",
+      "img": "zapdos_galar.gif",
+      "type": "fighting"
+    },
+    {
+      "name": "Zekrom",
+      "img": "zekrom.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Zeraora",
+      "img": "zeraora.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Zeraora",
+      "img": "zeraora_s.gif",
+      "type": "electric"
+    },
+    {
+      "name": "Zigzagoon",
+      "img": "zigzagoon.gif",
+      "type": "normal"
+    },
+    {
+      "name": "Zigzagoon Galar",
+      "img": "zigzagoon_galar.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Zigzagoon Galar",
+      "img": "zigzagoon_galar_s.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Zoroark",
+      "img": "zoroark.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Zorua",
+      "img": "zorua.gif",
+      "type": "dark"
+    },
+    {
+      "name": "Zubat",
+      "img": "zubat.gif",
+      "type": "poison"
+    },
+    {
+      "name": "zweilous",
+      "img": "zweilous.gif",
+      "type": "dark"
+    }
+  ]
+}

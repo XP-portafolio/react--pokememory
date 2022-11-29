@@ -1,0 +1,14 @@
+{
+  "types": [
+    "bug",
+    "normal",
+    "electric",
+    "grass",
+    "water",
+    "dark",
+    "fire",
+    "psychic",
+    "fighting",
+    "fairy"
+  ]
+}

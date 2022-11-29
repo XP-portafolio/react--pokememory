@@ -1,0 +1,12 @@
+.app {
+  margin: 0 auto;
+  min-width: 640px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (max-width: 805px) {
+    height: 200vh;
+  }
+  // background-color: chocolate;
+}

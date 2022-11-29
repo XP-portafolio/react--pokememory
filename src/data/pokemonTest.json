@@ -1,0 +1,65 @@
+{
+  "pokemon": [
+    {
+      "name": "Dwebble",
+      "img": "dwebble.gif",
+      "type": "bug",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Eevee",
+      "img": "eevee.gif",
+      "type": "normal",
+      "size": { "width": "80%" }
+    },
+    {
+      "name": "Electrivire",
+      "img": "electivire.gif",
+      "type": "electric",
+      "size": { "width": "90%" }
+    },
+    {
+      "name": "Electrode",
+      "img": "electrode.gif",
+      "type": "grass",
+      "margin": { "top": "10%" }
+    },
+    {
+      "name": "Elekid",
+      "img": "elekid.gif",
+      "type": "water",
+      "size": { "width": "85%" },
+      "margin": { "left": "-5%" }
+    },
+    {
+      "name": "Emolga",
+      "img": "emolga.gif",
+      "type": "dark",
+      "margin": { "left": "5%", "top": "-10%" }
+    },
+    {
+      "name": "Entei",
+      "img": "entei.gif",
+      "type": "fire",
+      "size": { "width": "80%", "height": "75%" },
+      "margin": { "left": "10%" }
+    },
+    {
+      "name": "Espeon",
+      "img": "espeon.gif",
+      "type": "psychic"
+    },
+    {
+      "name": "Farfetch'd",
+      "img": "farfetchd.gif",
+      "type": "fighting",
+      "margin": { "left": "20%" }
+    },
+    {
+      "name": "Farfetch'd",
+      "img": "farfetchd_s.gif",
+      "type": "fairy",
+      "margin": { "left": "20%" }
+    }
+  ]
+}
