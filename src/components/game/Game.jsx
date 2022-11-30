@@ -57,8 +57,8 @@ function Game({ setTurnsCount, updateRanking, playerName }) {
     let pokemonData = selectedTypes.map((x) => shufflePokemon(x));
     //generar las 20 cartas en orden aleatorio
     //****************************************TEST****************************** */
-    pokemonData = obtenerTestPokemon(200);
-    console.log(pokemonData);
+    pokemonData = obtenerTestPokemon(360);
+    //console.log(pokemonData);
     //************************************************************************ */
     pokemonData = [...pokemonData, ...pokemonData]
       .sort(() => Math.random() - 0.5)
